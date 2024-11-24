@@ -2,7 +2,7 @@ var docMenu = [
 	{
 		fr_FR: "Documentations",
 		submenu: [
-			{ link: "/jeedom-documentations/#LANG#/speedtestByOokla/index", fr_FR: "Speedtest by Ookla" },
+			{ link: "/jeedom-documentations/#LANG#/speedtestByOokla", fr_FR: "Speedtest by Ookla" },
 			{ link: "/jeedom-documentations/#LANG#/tvByOrange/index", fr_FR: "TV by Orange" },
 			{ link: "/jeedom-documentations/#LANG#/ambilightByHyperion/index", fr_FR: "Ambilight by Hyperion" }
 		]
@@ -11,12 +11,9 @@ var docMenu = [
 	}, {
 		fr_FR: "Changelogs",
 		submenu: [
-			{ link: "/jeedom-documentations/#LANG#/speedtestByOokla/changelog", fr_FR: "Speedtest by Ookla (stable)" },
-			{ link: "/jeedom-documentations/#LANG#/speedtestByOokla/#VERSION#/changelog", fr_FR: "Speedtest by Ookla (beta)" },
-			{ link: "/jeedom-documentations/#LANG#/tvByOrange/changelog", fr_FR: "TV by Orange (stable)" },
-			{ link: "/jeedom-documentations/#LANG#/tvByOrange/#VERSION#/changelog", fr_FR: "TV by Orange (beta)" },
-			{ link: "/jeedom-documentations/#LANG#/ambilightByHyperion/changelog", fr_FR: "Ambilight by Hyperion (stable)" },
-			{ link: "/jeedom-documentations/#LANG#/ambilightByHyperion/#VERSION#/changelog", fr_FR: "Ambilight by Hyperion (beta)" }
+			{ link: "/jeedom-documentations/#LANG#/speedtestByOokla/#VERSION#/changelog", fr_FR: "Speedtest by Ookla" },
+			{ link: "/jeedom-documentations/#LANG#/tvByOrange/#VERSION#/changelog", fr_FR: "TV by Orange" },
+			{ link: "/jeedom-documentations/#LANG#/ambilightByHyperion/#VERSION#/changelog", fr_FR: "Ambilight by Hyperion" }
 		]
 	},
 ];
@@ -176,7 +173,7 @@ $(function () {
 	$('#sel_jeedomVersion').on('change', function () {
 		setCookie('jeedomVersion', $(this).val(), 7);
 		var url = window.location.href;
-		if (url.indexOf('/changelog2') != -1 && url.indexOf(getCookie('jeedomVersion')) == -1) {
+		if (url.indexOf('/changelog') != -1 && url.indexOf(getCookie('jeedomVersion')) == -1) {
 			window.location.href = url.replace('stable', getCookie('jeedomVersion')).replace('beta', getCookie('jeedomVersion'));
 			return;
 		}
