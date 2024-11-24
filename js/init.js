@@ -12,11 +12,11 @@ var docMenu = [
 		fr_FR: "Changelogs",
 		submenu: [
 			{ link: "/jeedom-documentations/#LANG#/speedtestByOokla/changelog", fr_FR: "Speedtest by Ookla (stable)" },
-			{ link: "/jeedom-documentations/#LANG#/speedtestByOokla#VERSION#/changelog", fr_FR: "Speedtest by Ookla (beta)" },
+			{ link: "/jeedom-documentations/#LANG#/speedtestByOokla/#VERSION#/changelog", fr_FR: "Speedtest by Ookla (beta)" },
 			{ link: "/jeedom-documentations/#LANG#/tvByOrange/changelog", fr_FR: "TV by Orange (stable)" },
-			{ link: "/jeedom-documentations/#LANG#/tvByOrange/beta/changelog", fr_FR: "TV by Orange (beta)" },
+			{ link: "/jeedom-documentations/#LANG#/tvByOrange/#VERSION#/changelog", fr_FR: "TV by Orange (beta)" },
 			{ link: "/jeedom-documentations/#LANG#/ambilightByHyperion/changelog", fr_FR: "Ambilight by Hyperion (stable)" },
-			{ link: "/jeedom-documentations/#LANG#/ambilightByHyperion/beta/changelog", fr_FR: "Ambilight by Hyperion (beta)" }
+			{ link: "/jeedom-documentations/#LANG#/ambilightByHyperion/#VERSION#/changelog", fr_FR: "Ambilight by Hyperion (beta)" }
 		]
 	},
 ];
@@ -56,21 +56,9 @@ if (getCookie('lang') != lang) {
 }
 
 $('#meta-lang').attr('content', lang);
-var jeedomVersion = '4.4';
-if (window.location.href.indexOf('3.3') != -1) {
-	jeedomVersion = '3.3';
-} else if (window.location.href.indexOf('4.0') != -1) {
-	jeedomVersion = '4.0';
-} else if (window.location.href.indexOf('4.1') != -1) {
-	jeedomVersion = '4.1';
-} else if (window.location.href.indexOf('4.2') != -1) {
-	jeedomVersion = '4.2';
-} else if (window.location.href.indexOf('4.3') != -1) {
-	jeedomVersion = '4.3';
-} else if (window.location.href.indexOf('4.4') != -1) {
-	jeedomVersion = '4.4';
-} else if (window.location.href.indexOf('4.5') != -1) {
-	jeedomVersion = '4.5';
+var jeedomVersion = 'stable';
+if (window.location.href.indexOf('beta') != -1) {
+	jeedomVersion = 'beta';
 } else if (getCookie('jeedomVersion') != '') {
 	jeedomVersion = getCookie('jeedomVersion');
 }
