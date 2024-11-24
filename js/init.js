@@ -2,7 +2,7 @@ var docMenu = [
 	{
 		fr_FR: "Documentations",
 		submenu: [
-			{ link: "/jeedom-documentations/#LANG#/speedtestByOokla/", fr_FR: "Speedtest by Ookla" },
+			{ link: "/jeedom-documentations/#LANG#/speedtestByOokla/index", fr_FR: "Speedtest by Ookla" },
 			{ link: "/jeedom-documentations/#LANG#/tvByOrange/", fr_FR: "TV by Orange" },
 			{ link: "/jeedom-documentations/#LANG#/ambilightByHyperion/", fr_FR: "Ambilight by Hyperion" }
 		]
