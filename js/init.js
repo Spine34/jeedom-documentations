@@ -11,8 +11,8 @@ var docMenu = [
 	}, {
 		fr_FR: "Changelogs",
 		submenu: [
-			{ link: "/jeedom-documentations/#LANG#/speedtestByOokla/changelog", fr_FR: "Changelog" },
-			{ link: "/jeedom-documentations/#LANG#/compatibility/", fr_FR: "Compatibilité matériel et logiciel", en_US: "Compatibilité hardware and software", es_ES: "Compatibilidad de hardware y software.", de_DE: "Hardware und Softwarekompatibilität", pt_PT: "" },
+			{ link: "/jeedom-documentations/#LANG#/speedtestByOokla/changelog", fr_FR: "Changelog Speedtest by Ookla (stable)" },
+			{ link: "/jeedom-documentations/#LANG#/speedtestByOokla/beta/changelog", fr_FR: "Changelog Speedtest by Ookla (beta)" },
 			{ link: "/jeedom-documentations/#LANG#/premiers-pas/", fr_FR: "Premiers pas", en_US: "First step", es_ES: "Empezando", de_DE: "Erste Schritte", pt_PT: "" }
 		]
 	},
