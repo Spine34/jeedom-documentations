@@ -57,7 +57,9 @@ if (getCookie('lang') != lang) {
 
 $('#meta-lang').attr('content', lang);
 var jeedomVersion = 'stable';
-if (window.location.href.indexOf('beta') != -1) {
+if (window.location.href.indexOf('stable') != -1) {
+	jeedomVersion = 'stable';
+} else if (window.location.href.indexOf('beta') != -1) {
 	jeedomVersion = 'beta';
 } else if (getCookie('jeedomVersion') != '') {
 	jeedomVersion = getCookie('jeedomVersion');
