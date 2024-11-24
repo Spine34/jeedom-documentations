@@ -11,9 +11,12 @@ var docMenu = [
 	}, {
 		fr_FR: "Changelogs",
 		submenu: [
-			{ link: "/jeedom-documentations/#LANG#/speedtestByOokla/changelog", fr_FR: "Changelog Speedtest by Ookla (stable)" },
-			{ link: "/jeedom-documentations/#LANG#/speedtestByOokla/beta/changelog", fr_FR: "Changelog Speedtest by Ookla (beta)" },
-			{ link: "/jeedom-documentations/#LANG#/premiers-pas/", fr_FR: "Premiers pas", en_US: "First step", es_ES: "Empezando", de_DE: "Erste Schritte", pt_PT: "" }
+			{ link: "/jeedom-documentations/#LANG#/speedtestByOokla/changelog", fr_FR: "Speedtest by Ookla (stable)" },
+			{ link: "/jeedom-documentations/#LANG#/speedtestByOokla/beta/changelog", fr_FR: "Speedtest by Ookla (beta)" },
+			{ link: "/jeedom-documentations/#LANG#/tvByOrange/changelog", fr_FR: "TV by Orange (stable)" },
+			{ link: "/jeedom-documentations/#LANG#/tvByOrange/beta/changelog", fr_FR: "TV by Orange (beta)" },
+			{ link: "/jeedom-documentations/#LANG#/ambilightByHyperion/changelog", fr_FR: "Ambilight by Hyperion (stable)" },
+			{ link: "/jeedom-documentations/#LANG#/ambilightByHyperion/beta/changelog", fr_FR: "Ambilight by Hyperion (beta)" }
 		]
 	},
 ];
