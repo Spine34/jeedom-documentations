@@ -5,7 +5,6 @@ var docMenu = [
 		es_ES: "Presentación",
 		de_DE: "Präsentation",
 		pt_PT: "Apresentação",
-		link: "/#LANG#/presentation/index",
 		submenu: [
 			{ link: "/jeedom-documentations/#LANG#/speedtestByOokla/", fr_FR: "Speedtest by Ookla", en_US: "Installation", es_ES: "Instalación", de_DE: "Installation", pt_PT: "" },
 			{ link: "/#LANG#/compatibility/", fr_FR: "TV by orange", en_US: "Compatibilité hardware and software", es_ES: "Compatibilidad de hardware y software.", de_DE: "Hardware und Softwarekompatibilität", pt_PT: "" },
@@ -19,7 +18,6 @@ var docMenu = [
 		es_ES: "Conceptos",
 		de_DE: "Konzepte",
 		pt_PT: "Conceitos",
-		link: "/#LANG#/concept/",
 		submenu: [
 			{ link: "/#LANG#/installation/", fr_FR: "Installation", en_US: "Installation", es_ES: "Instalación", de_DE: "Installation", pt_PT: "" },
 			{ link: "/#LANG#/compatibility/", fr_FR: "Compatibilité matériel et logiciel", en_US: "Compatibilité hardware and software", es_ES: "Compatibilidad de hardware y software.", de_DE: "Hardware und Softwarekompatibilität", pt_PT: "" },
