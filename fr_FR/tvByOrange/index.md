@@ -4,7 +4,7 @@ Ce plugin permet de contrôler un décodeur Orange/Sosh.
 
 ## Configuration du plugin
 
-Après téléchargement du plugin, il faut l'activer et installer ses dépendances.
+Ce plugin ne nécessite pas de configuration particulière et doit simplement être activé après l’installation.
 
 ## Configuration des équipements
 
@@ -13,12 +13,17 @@ Après téléchargement du plugin, il faut l'activer et installer ses dépendanc
 - **Catégorie** : permet de choisir les catégories de l’équipement (il peut appartenir à plusieurs catégories)
 - **Activer** : permet de rendre votre équipement actif
 - **Visible** : permet de rendre votre équipement visible
-- **Auto-actualisation** : permet de définir la fréquence de rafraîchissement des commandes infos et de la liste des serveurs les plus proches
-- **Templates** : permet d'utiliser les templates dédiés au plugin à la place des widgets core (paramètres dans Configuration avancée de l'équipement => onglet Affichage => section Widget)
-- **ID du serveur de test** : permet de choisir un serveur de test spécifique (à utiliser uniquement si le serveur choisi automatiquement retourne des valeurs erronées)
-- **Désactiver les erreurs** : permet de désactiver les erreurs lorsque votre connexion internet est hors service
+- **Adresse IP du décodeur** : permet de choisir l'adresse IP du décodeur à contrôler
 - **Description de l’équipement** : permet de donner une description à votre équipement
-- **Liste des serveurs les plus proches** : permet d'afficher la liste des serveurs les plus proches
+
+## Configuration des commandes
+
+## Configuration des chaînes
+
+
+
+
+
 
 > **Important**
 >
