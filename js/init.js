@@ -11,7 +11,7 @@ var docMenu = [
 	}, {
 		fr_FR: "Changelogs",
 		submenu: [
-			{ link: "/#LANG#/installation/", fr_FR: "Installation", en_US: "Installation", es_ES: "Instalación", de_DE: "Installation", pt_PT: "" },
+			{ link: "/#LANG#/speedtestByOokla/changelog", fr_FR: "Installation" },
 			{ link: "/#LANG#/compatibility/", fr_FR: "Compatibilité matériel et logiciel", en_US: "Compatibilité hardware and software", es_ES: "Compatibilidad de hardware y software.", de_DE: "Hardware und Softwarekompatibilität", pt_PT: "" },
 			{ link: "/#LANG#/premiers-pas/", fr_FR: "Premiers pas", en_US: "First step", es_ES: "Empezando", de_DE: "Erste Schritte", pt_PT: "" }
 		]
