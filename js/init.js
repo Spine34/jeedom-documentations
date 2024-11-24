@@ -1,33 +1,25 @@
 var docMenu = [
 	{
-		fr_FR: "Présentation",
+		fr_FR: "Documentations",
 		en_US: "Presentation",
 		es_ES: "Presentación",
 		de_DE: "Präsentation",
 		pt_PT: "Apresentação",
-		link: "/#LANG#/presentation/index"
+		link: "/#LANG#/presentation/index",
+		submenu: [
+			{ link: "/#LANG#/installation/", fr_FR: "Speedtest by Ookla", en_US: "Installation", es_ES: "Instalación", de_DE: "Installation", pt_PT: "" },
+			{ link: "/#LANG#/compatibility/", fr_FR: "TV by orange", en_US: "Compatibilité hardware and software", es_ES: "Compatibilidad de hardware y software.", de_DE: "Hardware und Softwarekompatibilität", pt_PT: "" },
+			{ link: "/#LANG#/premiers-pas/", fr_FR: "Ambilight by Hyperion", en_US: "First step", es_ES: "Empezando", de_DE: "Erste Schritte", pt_PT: "" }
+		]
 	}, {
-		fr_FR: "Concepts",
+		divider: true
+	}, {
+		fr_FR: "Changelogs",
 		en_US: "Concepts",
 		es_ES: "Conceptos",
 		de_DE: "Konzepte",
 		pt_PT: "Conceitos",
-		link: "/#LANG#/concept/"
-	}, {
-		fr_FR: 'Assistance et bug',
-		en_US: 'Assistance and bug',
-		es_ES: "Asistencia y error",
-		de_DE: "Hilfe und Fehler",
-		pt_PT: "Assistência e bug",
-		link: "/#LANG#/howto/remonter_un_bug"
-	}, {
-		divider: true
-	}, {
-		fr_FR: "Installer Jeedom",
-		en_US: "Install Jeedom",
-		es_ES: "Instalar Jeedom",
-		de_DE: "Installieren Jeedom",
-		pt_PT: "Instale o Jeedom",
+		link: "/#LANG#/concept/",
 		submenu: [
 			{ link: "/#LANG#/installation/", fr_FR: "Installation", en_US: "Installation", es_ES: "Instalación", de_DE: "Installation", pt_PT: "" },
 			{ link: "/#LANG#/compatibility/", fr_FR: "Compatibilité matériel et logiciel", en_US: "Compatibilité hardware and software", es_ES: "Compatibilidad de hardware y software.", de_DE: "Hardware und Softwarekompatibilität", pt_PT: "" },
