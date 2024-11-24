@@ -176,7 +176,7 @@ $(function () {
 	$('#sel_jeedomVersion').on('change', function () {
 		setCookie('jeedomVersion', $(this).val(), 7);
 		var url = window.location.href;
-		if (url.indexOf('/changelog') != -1 && url.indexOf(getCookie('jeedomVersion')) == -1) {
+		if (url.indexOf('/changelog2') != -1 && url.indexOf(getCookie('jeedomVersion')) == -1) {
 			window.location.href = url.replace('stable', getCookie('jeedomVersion')).replace('beta', getCookie('jeedomVersion'));
 			return;
 		}
