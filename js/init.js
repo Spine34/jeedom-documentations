@@ -1,23 +1,15 @@
 var docMenu = [
 	{
 		fr_FR: "Documentations",
-		en_US: "Presentation",
-		es_ES: "Presentación",
-		de_DE: "Präsentation",
-		pt_PT: "Apresentação",
 		submenu: [
-			{ link: "/jeedom-documentations/#LANG#/speedtestByOokla/", fr_FR: "Speedtest by Ookla", en_US: "Installation", es_ES: "Instalación", de_DE: "Installation", pt_PT: "" },
-			{ link: "/#LANG#/compatibility/", fr_FR: "TV by orange", en_US: "Compatibilité hardware and software", es_ES: "Compatibilidad de hardware y software.", de_DE: "Hardware und Softwarekompatibilität", pt_PT: "" },
-			{ link: "/#LANG#/premiers-pas/", fr_FR: "Ambilight by Hyperion", en_US: "First step", es_ES: "Empezando", de_DE: "Erste Schritte", pt_PT: "" }
+			{ link: "/jeedom-documentations/#LANG#/speedtestByOokla/", fr_FR: "Speedtest by Ookla" },
+			{ link: "/jeedom-documentations/#LANG#/tvByOrange/", fr_FR: "TV by Orange" },
+			{ link: "/jeedom-documentations/#LANG#/ambilightByHyperion/", fr_FR: "Ambilight by Hyperion" }
 		]
 	}, {
 		divider: true
 	}, {
 		fr_FR: "Changelogs",
-		en_US: "Concepts",
-		es_ES: "Conceptos",
-		de_DE: "Konzepte",
-		pt_PT: "Conceitos",
 		submenu: [
 			{ link: "/#LANG#/installation/", fr_FR: "Installation", en_US: "Installation", es_ES: "Instalación", de_DE: "Installation", pt_PT: "" },
 			{ link: "/#LANG#/compatibility/", fr_FR: "Compatibilité matériel et logiciel", en_US: "Compatibilité hardware and software", es_ES: "Compatibilidad de hardware y software.", de_DE: "Hardware und Softwarekompatibilität", pt_PT: "" },
