@@ -1,5 +1,7 @@
 var docMenu = [
 	{
+		divider: true
+	}, {
 		fr_FR: "Documentations",
 		submenu: [
 			{ link: "/jeedom-documentations/#LANG#/speedtestByOokla/index", fr_FR: "Speedtest by Ookla" },
@@ -15,6 +17,8 @@ var docMenu = [
 			{ link: "/jeedom-documentations/#LANG#/tvByOrange/#VERSION#/changelog", fr_FR: "TV by Orange" },
 			{ link: "/jeedom-documentations/#LANG#/ambilightByHyperion/#VERSION#/changelog", fr_FR: "Ambilight by Hyperion" }
 		]
+	}, {
+		divider: true
 	},
 ];
 
