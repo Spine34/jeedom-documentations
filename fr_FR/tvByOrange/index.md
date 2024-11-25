@@ -65,7 +65,7 @@ Les commandes suivantes sont mises à jour automatiquement lors de la sauvegarde
 Les commandes suivantes correspondent aux touches de la télécommande dans l'application mobile :
 - **Vod**
 - **Up**
-- **onOff**
+- **On Off**
 - **Left**
 - **OK**
 - **Right**
@@ -96,6 +96,10 @@ Les commandes suivantes (non affichées par défaut) sont des doublons des comma
 - **Off**
 - **Unmute**
 - **Pause**
+
+Les commandes suivantes (non affichées par défaut) sont destinées à la compatibilité avec les types génériques et les assistants vocaux :
+- **Channel Slider**
+- **volume Slider**
 
 ## Configuration des chaînes
 
