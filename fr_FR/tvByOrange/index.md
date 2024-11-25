@@ -47,7 +47,7 @@ Les commandes suivantes sont les valeur brutes retournées par le décodeur :
 
 > **NOTE**
 >
-> Le plugin a été développé avec un Décodeur TV 4, il possible que les décodeurs plus récents retournent plus d'informations. Pour le vérifier il faut passer le plugin en debug et voir si il y a des clés dans le JSON non présentes dans la liste de commandes ci-dessus. Si c'est le cas, il faut me contacter sur Community pour que je puisse rajouter les commandes correspondantes. Si vous ne savez pas lire un JSON il suffit de me l'envoyer sur Community.
+> Le plugin a été développé avec un Décodeur TV 4, il possible que les décodeurs plus récents retournent plus d'informations. Pour le vérifier il faut passer le plugin en debug et voir si il y a des clés dans le JSON non présentes dans la liste de commandes ci-dessus. Si c'est le cas, il faut me le signaler sur Community pour que je puisse rajouter les commandes correspondantes. Si vous ne savez pas lire un JSON il suffit de me l'envoyer sur Community.
 
 Les commandes suivantes sont déduites de votre liste de chaînes en fonction de la valeur de Played Media Id retournée par le décodeur, donc si votre liste est erronés ces commandes le seront aussi :
 - **Channel Number**
@@ -103,9 +103,7 @@ Les commandes suivantes (non affichées par défaut) sont destinées à la compa
 
 ## Configuration des chaînes
 
-Une chaîne est identifiée à partir de son ID EGP (Played Media Id), si le plugin détecte un ID EGP non présent dans votre liste de chaînes, il générera une erreur en vous indiquant le numéro de l'ID EGP inconnu. Le problème est que si vous n'êtes pas présent au moment de l'erreur, il faudra retrouver quelle chaîne a été mise au moment de l'erreur, ce qui n'est pas évident je vous l'accorde, sinon il faudra attendre que l'erreur se reproduise et que vous puissiez identifier la chaîne en question.
-Vous pouvez bien sûr modifier manuellement les chaînes ou en ajouter de nouvelles mais l'idéal est de m'en informer sur Community pour que je puisse corriger les chaînes existantes et en ajouter de nouvelle pour tout le monde.
-Pour corriger ou ajouter une chaîne j'aurais besoin des trois informations suivantes : Nom - Numéro - ID EGP (Played Media Id).
+Une chaîne est identifiée à partir de son ID EGP (Played Media Id), si le plugin détecte un ID EGP non présent dans votre liste de chaînes, il générera une erreur en vous indiquant le numéro de l'ID EGP inconnu. Le problème est que si vous n'êtes pas présent au moment de l'erreur, il faudra retrouver quelle chaîne a été mise au moment de l'erreur, ce qui n'est pas évident je vous l'accorde, sinon il faudra attendre que l'erreur se reproduise et que vous puissiez identifier la chaîne en question. Vous pouvez bien sûr modifier manuellement les chaînes ou en ajouter de nouvelles mais l'idéal est de m'en informer sur Community pour que je puisse corriger les chaînes existantes et en ajouter de nouvelle pour tous les utilisateurs. Pour corriger ou ajouter une chaîne j'aurais besoin des trois informations suivantes : Nom - Numéro - ID EGP (Played Media Id).
 
 > **NOTE**
 >
