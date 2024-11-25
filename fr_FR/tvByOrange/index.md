@@ -25,6 +25,9 @@ Ce plugin ne nécessite pas de configuration particulière et doit simplement ê
 
 ### Commandes info
 
+Cette commande passe à 0 si le décodeur n'est pas joignable :
+- **Online**
+
 Les commandes suivantes sont les valeur brutes retournées par le décodeur :
 - **Active Standby State** : inversé en base par défaut pour retourner 1 quand le décodeur est allumé car il s'agit de l'état de la veille et non de l'état du décodeur
 - **OSD Context**
