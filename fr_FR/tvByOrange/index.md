@@ -43,7 +43,7 @@ Les commandes suivantes sont les valeur brutes retournées par le décodeur :
 
 > **NOTE**
 >
-> Il n'est pas possible de connaître les valeurs possibles, c'est donc à vous de voir ce que retourne ces commandes en fonction de ce que vous faîte sur le décodeur.
+> Il n'est pas possible de connaître les valeurs possibles, c'est donc à vous de voir ce que retourne ces commandes en fonction de ce que vous faîte sur votre décodeur.
 
 > **NOTE**
 >
@@ -103,3 +103,9 @@ Les commandes suivantes (non affichées par défaut) sont destinées à la compa
 
 ## Configuration des chaînes
 
+Une chaîne est identifiée à partir de son ID EGP (Played Media Id), si le plugin détecte un ID EGP non présent dans votre liste de chaînes, il générera une erreur en vous indiquant le numéro de l'ID EGP inconnu. Le problème est que si vous n'êtes pas présent au moment de l'erreur, il faudra retrouver quelle chaîne a été mise au moment de l'erreur, ce qui n'est pas évident je vous l'accorde, sinon il faudra attendre que l'erreur se reproduise et que vous puissiez identifier la chaîne en question.
+Vous pouvez bien sûr modifier manuellement les chaînes ou en ajouter de nouvelles mais l'idéal est de m'en informer sur Community pour que je puisse corriger les chaînes existantes et en ajouter de nouvelle pour tout le monde.
+
+> **NOTE**
+>
+> Les chaînes ne sont pas affichées par défaut mais ce sont des commandes action que vous pouvez afficher comme n'importe quelle autre commande action.
