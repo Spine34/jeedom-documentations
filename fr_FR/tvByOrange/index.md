@@ -13,7 +13,7 @@ Ce plugin ne nécessite pas de configuration particulière et doit simplement ê
 
 ## Configuration des équipements
 
-- **Nom de l’équipement** : permet de donner un nom de votre équipement
+- **Nom de l’équipement** : permet de donner un nom à votre équipement
 - **Objet parent** : permet d'indiquer l’objet parent auquel appartient l’équipement
 - **Catégorie** : permet de choisir les catégories de l’équipement (il peut appartenir à plusieurs catégories)
 - **Activer** : permet de rendre votre équipement actif
@@ -26,7 +26,7 @@ Ce plugin ne nécessite pas de configuration particulière et doit simplement ê
 ### Commandes info
 
 Les commandes suivantes sont les valeur brutes retournées par le décodeur :
-- **Active Standby State** : inversé en base par défaut pour retourné 1 quand le décodeur est allumé car il s'agit de l'état de la veille et non de l'état du décodeur
+- **Active Standby State** : inversé en base par défaut pour retourner 1 quand le décodeur est allumé car il s'agit de l'état de la veille et non de l'état du décodeur
 - **OSD Context**
 - **Played Media Type**
 - **Played Media State**
@@ -47,13 +47,13 @@ Les commandes suivantes sont les valeur brutes retournées par le décodeur :
 
 > **NOTE**
 >
-> Le plugin a été développé avec un Décodeur TV 4, il possible que les décodeurs plus récents retournent plus d'information, pour le vérifier il faut passer le plugin en debug et voir si il y a des clé dans le JSON non présentent dans la liste de commande ci-dessus. Si c'est le cas, il faut me contacter sur Community pour que je puisse rajouter les commandes correspondantes.
+> Le plugin a été développé avec un Décodeur TV 4, il possible que les décodeurs plus récents retournent plus d'informations. Pour le vérifier il faut passer le plugin en debug et voir si il y a des clés dans le JSON non présentes dans la liste de commandes ci-dessus. Si c'est le cas, il faut me contacter sur Community pour que je puisse rajouter les commandes correspondantes.
 
-Les commandes suivantes sont déduites de votre liste de chaînes en fonction de la valeur de Played Media Id retourné par le décodeur, donc si votre liste est erronés ces commandes le seront aussi :
+Les commandes suivantes sont déduites de votre liste de chaînes en fonction de la valeur de Played Media Id retournée par le décodeur, donc si votre liste est erronés ces commandes le seront aussi :
 - **Channel Number**
 - **Channel Text**
 
-Cette commande (non affichées par défaut) est purement virtuel et ne reflète absolument l'état réel du volume de votre décodeur, elle est destinée à la compatibilité avec les types génériques et les assistants vocaux :
+Cette commande (non affichées par défaut) est purement virtuelle et ne reflète absolument pas l'état réel du volume de votre décodeur, elle est destinée à la compatibilité avec les types génériques et les assistants vocaux :
 - **Volume State**
 
 ### Commandes action
@@ -99,7 +99,7 @@ Les commandes suivantes (non affichées par défaut) sont des doublons des comma
 
 Les commandes suivantes (non affichées par défaut) sont destinées à la compatibilité avec les types génériques et les assistants vocaux :
 - **Channel Slider**
-- **volume Slider**
+- **Volume Slider**
 
 ## Configuration des chaînes
 
