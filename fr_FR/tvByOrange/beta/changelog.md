@@ -6,4 +6,4 @@
 
 ## 25/11/2024
 
-- Première version beta
+- Première version beta2
