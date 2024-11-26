@@ -7,7 +7,7 @@
 ## 26/11/2024
 
 - Mise à jour de la commande Mute
-- Ajout des services de streaming Netflix, Prime Video, Disney+ et Paramount+
+- Ajout des services de streaming Netflix, Prime Video, Disney+, Paramount+ et Max
 
 ## 25/11/2024
 
