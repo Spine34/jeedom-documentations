@@ -45,7 +45,7 @@ Les commandes suivantes correspondent aux valeur brutes retournées par votre d�
 > Le commandes info sont mise à jour toutes les 5 secondes.  
 > Il est impossible de déterminer à l'avance les valeurs possibles. Vous devrez donc vérifier les valeurs des commandes info en fonction de l'utilisation que vous faites de votre décodeur.  
 > Le plugin a été développé avec un Décodeur TV 4, il est possible que les décodeurs plus récents retournent plus d'informations.  
-> Pour vérifier cela, il faut passer le niveau de log du plugin en debug et examiner le JSON retourné par votre décodeur pour repérer si il contient des clés qui ne figurent pas dans la liste de commandes ci-dessus.  
+> Pour vérifier cela, il faut passer le niveau de log du plugin en debug et examiner le JSON retourné par votre décodeur pour repérer s'il contient des clés qui ne figurent pas dans la liste de commandes ci-dessus.  
 > Si c'est le cas, veuillez me le signaler sur Community afin que je puisse rajouter les commandes correspondantes.  
 > Si vous ne savez pas lire un JSON, envoyez-le-moi simplement sur Community.
 
@@ -59,7 +59,7 @@ Cette commande (non affichées par défaut) est purement virtuelle et ne reflèt
 ### Commandes action
 
 Les commandes suivantes sont mises à jour automatiquement lors de la sauvegarde de l'équipement :
-- **Channel Select** : contient toutes les chaînes dans l'odre respectif de votre liste de châines
+- **Channel Select** : contient toutes les chaînes dans l'ordre respectif de votre liste de chaînes
 - **Channel Select Custom** : à venir
 
 Les commandes suivantes correspondent aux touches de la télécommande dans l'application mobile :
