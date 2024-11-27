@@ -42,8 +42,8 @@ Les commandes suivantes sont les valeur brutes retournées par le décodeur :
 
 > **NOTE**
 >
-> Le commandes info sont mise à jour toutes les 5 secondes.
-> Il est impossible de déterminer à l'avance les valeurs possibles. Vous devrez donc vérifier les résultats des commandes en fonction de l'utilisation que vous faites de votre décodeur.
+> Le commandes info sont mise à jour toutes les 5 secondes.  
+> Il est impossible de déterminer à l'avance les valeurs possibles. Vous devrez donc vérifier les valeurs des commandes info en fonction de l'utilisation que vous faites de votre décodeur.
 > Le plugin a été développé avec un Décodeur TV 4, il possible que les décodeurs plus récents retournent plus d'informations. Pour le vérifier il faut passer le plugin en debug et voir si il y a des clés dans le JSON non présentes dans la liste de commandes ci-dessus. Si c'est le cas, il faut me le signaler sur Community pour que je puisse ajouter les commandes correspondantes. Si vous ne savez pas lire un JSON il suffit de me l'envoyer sur Community.
 
 Les commandes suivantes sont déduites de votre liste de chaînes en fonction de la valeur de Played Media Id retournée par le décodeur, donc si votre liste est erronée ces commandes le seront aussi :
