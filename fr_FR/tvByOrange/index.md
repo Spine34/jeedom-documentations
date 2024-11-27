@@ -4,7 +4,7 @@ Ce plugin permet de contrôler un décodeur Orange/Sosh.
 
 > **IMPORTANT**
 >
-> L'API Orange n'est pas publique, les requêtes ont été sniffées à partir de l'application mobile et sont donc suseptibles de changer.
+> L'API Orange n'est pas publique, les requêtes ont été sniffées à partir de l'application mobile et sont donc suseptibles de changer.  
 > Le plugin est donc théoriquement compatible avec tous les décodeurs qui sont compatibles avec l'application mobile.
 
 ## Configuration du plugin
