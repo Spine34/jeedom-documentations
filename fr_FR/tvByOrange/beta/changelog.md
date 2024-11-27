@@ -6,8 +6,9 @@
 
 ## 26/11/2024
 
-- Mise à jour de la commande Mute
 - Ajout des services de streaming Netflix, Prime Video, Disney+, Paramount+ et Max
+- Ajout de la chaîne Marmiton TV
+- Mise à jour de la commande Mute
 
 ## 25/11/2024
 
