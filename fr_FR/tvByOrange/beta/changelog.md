@@ -9,7 +9,7 @@
 - Ajout de la commande Npvr Support
 - Ajout de la commande Custom Channel Select
 - Ajout d'une option dans liste de chaînes pour choisir les chaînes de la commande Custom Channel Select
-- Mise à jour du type de la commande WoL Support (string => binary)
+- Mise à jour du sous-type de la commande WoL Support (string => binary)
 
 ## 26/11/2024
 
