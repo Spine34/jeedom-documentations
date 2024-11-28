@@ -9,12 +9,13 @@
 - Ajout de la commande Npvr Support
 - Ajout de la commande Custom Channel Select
 - Ajout d'une option dans liste de chaînes pour choisir les chaînes de la commande Custom Channel Select
+- Mise à jour du type de la commande WoL Support (string => binary)
 
 ## 26/11/2024
 
 - Ajout des services de streaming Netflix, Prime Video, Disney+, Paramount+ et Max
 - Ajout de la chaîne Marmiton TV
-- Mise à jour de la commande Mute
+- Mise à jour de l'ID logique de la commande Mute Unmute (mute => muteUnmute)
 
 ## 25/11/2024
 
