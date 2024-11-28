@@ -7,7 +7,7 @@
 ## 28/112024
 
 - Ajout de la commande Npvr Support
-- Ajout de la commande Custom Channel Select et d'une option pour choisir les châines a y ajouter dans 
+- Ajout de la commande Custom Channel Select
 - Ajout d'une option dans liste de chaînes pour choisir les chaînes de la commande Custom Channel Select
 
 ## 26/11/2024
