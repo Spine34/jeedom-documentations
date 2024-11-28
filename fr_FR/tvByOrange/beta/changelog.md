@@ -4,7 +4,7 @@
 >
 > S'il n'y a pas d'information sur la mise à jour, c'est que celle-ci concerne uniquement de la mise à jour de documentation, de traduction ou de texte.
 
-## 28/112024
+## 28/11/2024
 
 - Ajout de la commande Npvr Support
 - Ajout de la commande Custom Channel Select
