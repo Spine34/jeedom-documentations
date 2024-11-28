@@ -39,6 +39,7 @@ Les commandes suivantes correspondent aux valeur brutes retournÃ©es par votre dÃ
 - **Time Shifting State**
 - **MAC Address**
 - **Friendly Name**
+- **Npvr Support**
 
 > **NOTE**
 >
