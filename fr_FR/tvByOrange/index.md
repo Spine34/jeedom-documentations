@@ -50,7 +50,7 @@ Les commandes suivantes correspondent aux valeur brutes retournées par votre d�
 > Si c'est le cas, veuillez me le signaler sur Community afin que je puisse rajouter les commandes correspondantes.  
 > Si vous ne savez pas lire un JSON, envoyez-le-moi simplement sur Community.
 
-Les commandes suivantes sont déduites de votre liste de chaînes en fonction de la valeur de Played Media Id retournée par votre décodeur, donc si votre liste de chaînes est erronée ces commandes le seront aussi :
+Les commandes suivantes sont déduites de votre liste de chaînes en fonction de la valeur de la commande **Played Media Id** retournée par votre décodeur, donc si votre liste de chaînes est erronée ces commandes le seront aussi :
 - **Channel Number**
 - **Channel Text**
 
