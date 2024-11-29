@@ -82,7 +82,7 @@ Les commandes suivantes correspondent aux touches de la télécommande dans l'ap
 - **4**
 - **5**
 - **6**
-- **Mute**
+- **Mute Unmute**
 - **7**
 - **8**
 - **9**
