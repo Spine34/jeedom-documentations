@@ -43,7 +43,7 @@ Les commandes suivantes correspondent aux valeur brutes retournées par votre d�
 
 > **NOTE**
 >
-> Les commandes info sont mise à jour toutes les 5 secondes.  
+> Les commandes info sont mises à jour toutes les 5 secondes.  
 > Il est impossible de déterminer à l'avance les valeurs possibles. Vous devrez donc vérifier les valeurs des commandes info en fonction de l'utilisation que vous faites de votre décodeur.  
 > Le plugin a été développé avec un Décodeur TV 4, il est possible que les décodeurs plus récents retournent plus d'informations.  
 > Pour vérifier cela, il faut passer le niveau de log du plugin en debug et examiner le JSON retourné par votre décodeur pour repérer s'il contient des clés qui ne figurent pas dans la liste de commandes ci-dessus.  
