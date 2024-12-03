@@ -4,6 +4,10 @@
 >
 > S'il n'y a pas d'information sur la mise à jour, c'est que celle-ci concerne uniquement de la mise à jour de documentation, de traduction ou de texte.
 
+## 03/12/2024
+
+- Mise à jour du sous-type de la commande Npvr Support (string => binary)
+
 ## 28/11/2024
 
 - Ajout de la commande Npvr Support
