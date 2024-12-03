@@ -7,6 +7,7 @@
 ## 03/12/2024
 
 - Mise à jour du sous-type de la commande Npvr Support (string => binary)
+- Ajout d'un bouton dans la liste de chaînes pour ordonner les chaînes par ordre croissant des numéros de chaînes
 
 ## 28/11/2024
 
