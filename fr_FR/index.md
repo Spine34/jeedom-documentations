@@ -1,4 +1,4 @@
-### Documentation Jeedom
+### Documentation Spine
 
 Bienvenue sur le site de documentation de Spine.
 
