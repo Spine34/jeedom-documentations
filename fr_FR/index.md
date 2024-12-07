@@ -1,6 +1,6 @@
 ### Documentation Jeedom
 
-Bienvenue sur le site de documentation de la solution domotique Jeedom.
+Bienvenue sur le site de documentation de Spine.
 
 <div id="div_searchBar"></div>
 
