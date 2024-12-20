@@ -50,7 +50,7 @@ Les commandes suivantes correspondent aux valeurs brutes retournées par votre d
 > Si c'est le cas, veuillez me le signaler sur Community afin que je puisse rajouter les commandes correspondantes.  
 > Si vous ne savez pas lire un JSON, envoyez-le-moi simplement sur Community.
 
-Les commandes suivantes sont déduites de votre liste de chaînes en fonction de la valeur de la commande **Played Media Id** retournée par votre décodeur, donc si votre liste de chaînes est erronée ces commandes le seront aussi :
+Les commandes suivantes sont déduites de votre liste de chaînes en fonction de la valeur de la commande **Played Media Id** retournée par votre décodeur, donc si votre liste de chaînes est erronée les valeurs de ces commandes le seront aussi :
 - **Channel Number**
 - **Channel Text**
 
@@ -109,3 +109,7 @@ Une chaîne est identifiée à partir de son ID EGP (Played Media Id), si le plu
 > **NOTE**
 >
 > Les chaînes ne sont pas affichées par défaut mais ce sont des commandes action que vous pouvez afficher comme n'importe quelle autre commande action.
+
+## FAQ
+
+Le décodeur ne retourne pas sont etat quand il est en veille (à faire)

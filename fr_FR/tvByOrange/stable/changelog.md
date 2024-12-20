@@ -6,7 +6,7 @@
 
 ## 18/12/2024
 
-- Correction de la fonction cURL pour PHP 8.0.0
+- Correction de la fonction cURL pour PHP 8.0.0 (compatible avec PHP 7.4.33)
 
 ## 17/12/2024
 
