@@ -36,7 +36,7 @@ Les commandes suivantes correspondent aux valeurs brutes retournées par votre d
 - **Played Media Id** : correspond à l'ID EPG de votre liste de chaînes
 - **Played Media Context**
 - **Played Media Position**
-- **Time Shifting State**
+- **Time Shifting State** : décalage avec le direct (passe à 1 quand on utilise le contrôle du direct)
 - **MAC Address**
 - **Friendly Name**
 - **Npvr Support**
@@ -110,6 +110,8 @@ Une chaîne est identifiée à partir de son ID EGP (Played Media Id), si le plu
 >
 > Les chaînes ne sont pas affichées par défaut mais ce sont des commandes action que vous pouvez afficher comme n'importe quelle autre commande action.
 
-## FAQ
+<!-- ## FAQ
 
-Le décodeur ne retourne pas sont etat quand il est en veille (à faire)
+restart démon for debug
+
+Le décodeur ne retourne pas sont etat quand il est en veille (à faire) -->
