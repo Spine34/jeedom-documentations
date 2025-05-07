@@ -4,6 +4,11 @@
 >
 > S'il n'y a pas d'information sur la mise à jour, c'est que celle-ci concerne uniquement de la mise à jour de documentation, de traduction ou de texte.
 
+## 07/05/2025
+
+- Mise à jour du script d'update pour créer automatiquement les nouvelles chaînes
+- Ajout de nouvelles chaînes (merci @OUARZA)
+
 ## 18/12/2024
 
 - Correction de la fonction cURL pour PHP 8.0.0 (compatible avec PHP 7.4.33)
