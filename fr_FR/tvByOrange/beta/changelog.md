@@ -4,6 +4,10 @@
 >
 > S'il n'y a pas d'information sur la mise à jour, c'est que celle-ci concerne uniquement de la mise à jour de documentation, de traduction ou de texte.
 
+## 08/05/2025
+
+- Suppression des chaînes C8 et NRJ12
+
 ## 07/05/2025
 
 - Ajout d'une checkbox dans la configuration de l'équipement pour ajouter un message dans le Centre de Messages lorqu'une chaîne qui n'existe pas dans la liste des chaînes est détectée
