@@ -4,6 +4,11 @@
 >
 > S'il n'y a pas d'information sur la mise à jour, c'est que celle-ci concerne uniquement de la mise à jour de documentation, de traduction ou de texte.
 
+## 02/06/2025
+
+- Suppression du test de la mise à jour de la numérotation des chaînes
+- Test de la mise à jour de la numérotation des chaînes
+
 ## 28/05/2025
 
 - Correction d'un bug sur la mise à jour de la commande Active Standby State
