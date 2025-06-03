@@ -6,7 +6,6 @@
 
 ## 02/06/2025
 
-- Suppression du test de la mise à jour de la numérotation des chaînes
 - Test de la mise à jour de la numérotation des chaînes
 
 ## 28/05/2025
