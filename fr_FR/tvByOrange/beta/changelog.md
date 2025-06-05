@@ -6,6 +6,7 @@
 
 ## 05/06/2025
 
+- Suppression de la chaîne CANAL+ Séries
 - Mise à jour de la numérotation des chaînes
 - Ajout de nouvelles chaînes
 - Ordonnancement de la liste de chaînes par ordre croissant des numéros de chaînes
