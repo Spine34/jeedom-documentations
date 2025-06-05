@@ -4,9 +4,11 @@
 >
 > S'il n'y a pas d'information sur la mise à jour, c'est que celle-ci concerne uniquement de la mise à jour de documentation, de traduction ou de texte.
 
-## 02/06/2025
+## 05/06/2025
 
-- Test de la mise à jour de la numérotation des chaînes
+- Mise à jour de la numérotation des chaînes
+- Ajout de nouvelles chaînes
+- Ordonnancement de la liste de chaînes par ordre croissant des numéros de chaînes
 
 ## 28/05/2025
 
