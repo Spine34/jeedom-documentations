@@ -6,7 +6,7 @@
 
 ## 05/06/2025
 
-- Suppression des chaînes CANAL+ Séries, Paramount Channel et Paramount Channel décalé
+- Suppression des chaînes CANAL+ Séries, Paramount Channel, Paramount Channel décalé et Eurochanne
 - Mise à jour de la numérotation des chaînes
 - Ajout de nouvelles chaînes
 - Ordonnancement de la liste de chaînes par ordre croissant des numéros de chaînes
