@@ -4,6 +4,13 @@
 >
 > S'il n'y a pas d'information sur la mise à jour, c'est que celle-ci concerne uniquement de la mise à jour de documentation, de traduction ou de texte.
 
+## 06/06/2025
+
+- Suppression des chaînes CANAL+ Séries, Paramount Channel, Paramount Channel décalé et Eurochanne
+- Mise à jour de la numérotation des chaînes
+- Ajout de nouvelles chaînes
+- Ordonnancement de la liste de chaînes par ordre croissant des numéros de chaînes
+
 ## 29/05/2025
 
 - Correction d'un bug sur la mise à jour de la commande Active Standby State
