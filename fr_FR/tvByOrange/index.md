@@ -60,7 +60,7 @@ Cette commande (non affichée par défaut) est purement virtuelle et ne reflète
 
 Les commandes suivantes sont mises à jour automatiquement lors de la sauvegarde de l'équipement :
 - **Channel Select** : contient toutes les chaînes dans l'ordre respectif de votre liste de chaînes
-- **Custom Channel Select** : contient toutes les chaînes sélectionnés dans l'ordre respectif de votre liste de chaînes
+- **Custom Channel Select** : contient toutes les chaînes sélectionnées dans l'ordre respectif de votre liste de chaînes
 
 Les commandes suivantes correspondent aux touches de la télécommande dans l'application mobile :
 - **Vod**
