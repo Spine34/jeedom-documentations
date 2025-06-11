@@ -54,7 +54,7 @@ Les commandes suivantes sont déduites de votre liste de chaînes en fonction de
 - **Channel Number**
 - **Channel Text**
 
-Cette commande (non affichées par défaut) est purement virtuelle et ne reflète absolument pas l'état réel du volume de votre décodeur, elle est destinée à la compatibilité avec les types génériques et les assistants vocaux :
+Cette commande (non affichée par défaut) est purement virtuelle et ne reflète absolument pas l'état réel du volume de votre décodeur, elle est destinée à la compatibilité avec les types génériques et les assistants vocaux :
 - **Volume State**
 
 ### Commandes action
