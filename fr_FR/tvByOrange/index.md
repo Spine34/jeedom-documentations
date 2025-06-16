@@ -19,6 +19,7 @@ Ce plugin ne nécessite pas de configuration particulière et doit simplement ê
 - **Activer** : permet de rendre votre équipement actif
 - **Visible** : permet de rendre votre équipement visible
 - **Adresse IP du décodeur** : permet de choisir l'adresse IP du décodeur à contrôler
+- **Ajouter un message** : Permet d'ajouter un message dans le Centre de Messages lorqu'une chaîne qui n'existe pas dans la liste des chaînes est détectée
 - **Description de l’équipement** : permet de donner une description à votre équipement
 
 ## Configuration des commandes
