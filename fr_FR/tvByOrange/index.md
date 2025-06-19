@@ -105,8 +105,8 @@ Les commandes suivantes (non affichées par défaut) sont destinées à la compa
 
 ## Configuration des chaînes
 
-Une chaîne est identifiée par son ID EGP (Played Media ID). Les numéros de chaînes sont indiqués à titre informatif, mais ne sont pas utilisés dans les requêtes.
-Vous pouvez modifier manuellement les chaînes ou en ajouter de nouvelles, mais l’idéal est de m’en informer afin que je puisse corriger les chaînes existantes et en ajouter de nouvelles pour tous les utilisateurs.
+Une chaîne est identifiée par son ID EGP (Played Media ID). Les numéros de chaînes sont indiqués à titre informatif, mais ne sont pas utilisés dans les requêtes.  
+Vous pouvez modifier manuellement les chaînes ou en ajouter de nouvelles, mais l’idéal est de m’en informer afin que je puisse corriger les chaînes existantes et en ajouter de nouvelles pour tous les utilisateurs.  
 Pour corriger ou ajouter une chaîne, j’aurai besoin des trois informations suivantes : Nom – Numéro – ID EGP (Played Media ID).
 
 
