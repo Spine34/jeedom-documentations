@@ -35,10 +35,11 @@ Les commandes suivantes correspondent aux valeurs brutes retournées par votre d
 - **Played Media Type**
 - **Played Media State**
 - **Played Media Id** : correspond à l'ID EPG de votre liste de chaînes
-- **Played Media Context**
+- **Played Media Context Id**
 - **Played Media Position**
 - **Time Shifting State** : décalage avec le direct (passe à 1 quand on utilise le contrôle du direct)
 - **MAC Address**
+- **WoL Support**
 - **Friendly Name**
 - **Npvr Support**
 
