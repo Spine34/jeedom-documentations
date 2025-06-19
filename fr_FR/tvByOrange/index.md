@@ -109,9 +109,3 @@ Une chaîne est identifiée à partir de son ID EGP (Played Media Id), si le plu
 > **NOTE**
 >
 > Les chaînes ne sont pas affichées par défaut mais ce sont des commandes action que vous pouvez afficher comme n'importe quelle autre commande action.
-
-<!-- ## FAQ
-
-restart démon for debug
-
-Le décodeur ne retourne pas sont etat quand il est en veille (à faire) -->
